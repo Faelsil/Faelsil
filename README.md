@@ -1,5 +1,5 @@
 
-<h1>Hello Word</h1>
+<h1><i>Hello 🌎 </i></h1>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
