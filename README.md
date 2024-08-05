@@ -1,8 +1,5 @@
 <div align = "center">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faelsildev&theme=github-dark&mode=weekly"/>
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cotador&theme=soft-green&hide_border=true" alt="GitHub Streak"/>
-< img [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cotador&theme=soft-green&hide_border=true)](https://git.io/streak-stats) />
-
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faelsil&theme=github-dark&mode=weekly"/>
 </div>
  
  &nbsp;
